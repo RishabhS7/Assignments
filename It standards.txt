@@ -1,0 +1,147 @@
+//////////////////////////////////////////////////////////////IT Standards//////////////////////////////////////////////////////////
+
+Submitted to - Ankita Hallan.
+
+
+
+************************************************IT Service Management Standards***************************************************
+
+ISO 20000 helps organisations benchmark how they deliver managed 
+services, measure service levels and assess their performance.
+ It is broadly aligned with, and draws strongly on, ITIL®.
+
+ISO 20000 parts 1, 2, 3, 4 and 5-
+
+ISO/IEC 20000-1:2011 (ISO 20000-1) ITSM Specification
+----provides requirements for ITSM and is relevant to those responsible for 
+    initiating, implementing or maintaining ITSM in their organisation. 
+    It provides a specification for an SMS. Organisations can have their SMSs
+    independently certified as conforming to the requirements of ISO 20000-1:2011.
+
+ISO/IEC 20000-2:2005 (ISO 20000-2) ITSM Code of Practice
+----describes the best practices for service management processes 
+   within the scope of part 1.
+
+ISO/IEC 20000-3:2009 (ISO 20000-3) Guidance on Scope & Applicability
+----provides vital information on writing a scope for an SMS, as well as providing
+    information on implementing an ISO 20000-1 SMS.
+
+ISO/IEC 20000-4:2010 (ISO 20000-4) Process Reference Model
+----helps you develop a process assessment model according to 
+    ISO/IEC 15504 process assessment principles.
+
+ ISO 20000-5:2012 
+----provides an implementation plan for an SMS that meets 
+    the requirements of ISO 20000-1
+
+
+
+******************************************************************************************************************************************
+**************************************Information Security Standards****************************************************
+
+----Organizations should maintain all three levels of documentation to help secure their environment. Information 
+    security policies are high-level statements or rules about protecting people or systems. 
+    (For example, a policy would state that "Company X will maintain secure passwords") 
+    A "standard" is a low-level prescription for the various ways the company will enforce the given policy.
+PAS 555:2013 (PAS 555) Cyber Security Risk Governance and Management
+ISO/IEC 27000:2014 (ISO 27000) ISMS Overview & Vocabulary
+ISO/IEC 27001 2013 (ISO 27001 Standard) ISMS Requirements
+ISO/IEC 27002 2013 (ISO27002 ISO 27002) Code of Practice for InfoSec Controls
+ISO/IEC 27003:2010 (ISO 27003) ISMS Implementation Guidance
+ISO/IEC 27005:2011 (ISO 27005) Information Security Risk Management
+ISO/IEC 27006:2011 (ISO 27006) Audit and Certification of ISMS
+ISO/IEC 27007:2011 (ISO 27007) ISMS Auditing
+ISO/IEC 27010:2012 (ISO 27010) Infosec Communications
+ISO/IEC 27011:2016 (ISO 27011) Information Security for Telecommunications Organisations
+ISO/IEC 27013:2012 (ISO 27013) Integrated Implementation of ISO27001 and ISO20000
+ISO/IEC 27014:2013 (ISO 27014) Governance of Information Security
+ISO/IEC 27015:2012 (ISO 27015) InfoSec Management Guidelines for Financial Services
+ISO/IEC 27016 (ISO 27016) InfoSec Organisational Economics
+ISO/IEC 27019:2013 (ISO 27019) Information Security for the Energy Utility Industry
+ISO/IEC 27031:2011 (ISO 27031) Guidelines for ICT Readiness for Business Continuity
+ISO/IEC 27032:2012 (ISO 27032) Guidelines for Cybersecurity
+ISO/IEC 27033-4 (ISO27033-4) Securing Communication Using Security Gateways
+ISO/IEC 27035 (ISO 27035) Information technology - Security incident management
+
+
+**********************************************************************************************************************************************
+****************************************Network Security Standards*************************************************************
+
+----The Network Security Standard provides measures to prevent, detect, and correct network compromises.
+    The standard is based on both new practices and best practices currently in use at RIT
+
+ISO/IEC 27033-1:2009 (ISO 27033-1) Network Security overview and concepts
+ISO/IEC 27033-2 (ISO 27033-2) Design and Implementation of Network Security
+ISO/IEC 27033-3 (ISO 27033-3) Reference Networking Scenarios.
+ISO/IEC 27034-1:2011 (ISO 27034-1) Application Security Overview and Concepts
+ISO/IEC 18028-5 (ISO 18028-5) Securing Communications Across Networks
+
+*************************************************************************************************************************************************
+*********************************************Risk Management Standards************************************************************
+
+----Overview. ISO 31000 is an international standard published in 2009 that provides principles 
+    and guidelines for effective risk management. It outlines a generic approach to risk management,
+    which can be applied to different types of risks (financial, safety, project risks) and used by any type of organization.
+ISO/IEC 31010:2009 (ISO 31010) Risk Assessment Techniques
+ISO 31000:2009 (ISO 31000) Risk Management Guidelines
+BS 31100:2008 (BS 31100) Risk Management - Code of Practice
+
+*******************************************************************************************************************************************************
+*********************************************Business Continuity Standards***********************************************************
+
+----many organizations follow business continuity management (BCM) standards in an attempt to ensure that 
+    they are meeting their BCM goals. Standards also give businesses a chance to 
+    demonstrate that they are effectively protecting their facilities, employees, assets, and stakeholders.
+ISO/IEC 27031:2011 (ISO 27031) Guidelines for ICT Readiness for Business Continuity
+ISO/IEC 22301:2012 (ISO 22301) BCMS Requirements
+ISO/IEC 22300:2012 (ISO 22300) Societal Security Terminology
+ISO/IEC 22313:2012 (ISO 22313) Societal Security – Business Continuity Management Systems – Guidance
+
+***********************************************************************************************************************************************************
+*********************************************Quality Management Systems Standards********************************************************
+
+----A quality management system (QMS) is a set of policies, processes and procedures required for planning and 
+    execution (production/development/service) in the core business area of an organization (i.e., areas that can
+    impact the organization's ability to meet customer requirements).
+ISO 9000:2005 (ISO 9000) Quality Management Systems - Fundamentals & Vocabulary
+ISO 9001:2008 (ISO 9000) Quality Management Systems - Requirements 
+
+************************************************************************************************************************************************************ 
+***************************************************Environment and Energy Standards***********************************************************
+
+----This international standard covers all relevant environmental aspects, from the reduction of wastewater, waste and
+    emissions to the environmental impact of products during use through to disposal.
+
+ISO 14004:2004 (ISO 14001) Environmental Management Systems - Guidelines
+ISO 50001:2011 (ISO 50001) Energy Management Systems - Requirements
+
+***************************************************************************************************************************************************************
+*************************************************************Software Standards***********************************************************************
+
+----A software standard is a standard, protocol, or other common format of a document, file, or data transfer
+    accepted and used by one or more software developers while working on one or more than one computer programs.
+    Software standards enable interoperability between different programs created by different developers.
+
+ISO 19770-1 (ISO 19770-1) Software Asset Management Processes
+ISO 19770-1:2012 (ISO 197701) Software Asset Management
+ISO 19770-2:2012 (ISO 197701-2) SAM Part 2 - Software Identification Tag
+
+**************************************************************************************************************************************************************
+*************************************************Corporate Governance Standards******************************************************************************
+
+----As corporate fiduciaries, directors are expected to adhere to a variety of federal, state, and stock exchange requirements. This resource center provides
+   links to and guidance on these standards. Additional guidance can be found in NACD's Resource Center on Director Liability.
+
+ISO 38500:2008 (ISO 38500) Corporate Governance of Information Technology Security
+BS 10500 (BS 10500:2011) Anti-Bribery Management System (ABMS) Specification
+IT Governance Ltd is authorised by BSI to distribute British and International Standards, 
+and is authorised by IEC to distribute international standards. All International Standards 
+supplied are either the BSI or other official standard body adoptions of International Standards or the IEC co-published standard.
+
+*********************************************************************************************************************************************************************
+*******************************************************Other Standards*********************************************************************************************
+
+ISO 22000:2005 (ISO 22000) Food Safety Management System (FSMS) Requirements
+ISO 22003:2005 (ISO 22003) Food Safety Management System (FSMS) Requirements for Auditing Bodies
+ISO 22004:2005 (ISO 22004) Application of ISO 22000:2005 for FSMS
+ISO 26000 (ISO 26000) Guidance on Social Responsibility
